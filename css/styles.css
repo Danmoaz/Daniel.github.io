@@ -145,7 +145,7 @@ body {
     }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:800px) {
     body {
         overflow-x: hidden;
     }
@@ -178,10 +178,9 @@ body {
     }
 
     .project {
-        overflow:hidden;
         left: 1%;
-        width: 65%;
-        height: 5%;
+        width: 75%;
+        height: 25%;
     }
 
     .logo {
