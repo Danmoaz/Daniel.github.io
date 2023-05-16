@@ -179,8 +179,8 @@ body {
 
     .project {
         left: 1%;
-        width: auto;
-        height: auto;
+        width: 75;
+        height: 25;
     }
 
     .logo {
