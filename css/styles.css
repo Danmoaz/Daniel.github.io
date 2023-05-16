@@ -180,7 +180,7 @@ body {
     .project {
         left: 1%;
         width: 50%;
-        height: 20%;
+        height: 15%;
     }
 
     .logo {
@@ -188,9 +188,9 @@ body {
     }
 
     .project-description {
-        font-size: 50%;
+        font-size: 60%;
         text-align: justify;
-        margin-right: 30px;
+        margin-right: 15px;
     }
 }
 
